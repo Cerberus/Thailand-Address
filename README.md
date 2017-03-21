@@ -17,3 +17,7 @@ select zip-code → province → district → subdistrict
 กรอกรหัสไปรษณีย์ → เลือกจังหวัด → เลือกอำเภอ → เลือกตำบล
 
 ![Alt text](https://raw.githubusercontent.com/Cerberus/Thailand-Address/master/screenshot.png "Screenshot")
+
+## Reference
+
+http://devscriptcase.blogspot.com/2014/07/mysql-2-thailand-provinces-amphures.html
