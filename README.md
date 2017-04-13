@@ -21,3 +21,4 @@ select zip-code → province → district → subdistrict
 ## Reference
 
 http://devscriptcase.blogspot.com/2014/07/mysql-2-thailand-provinces-amphures.html
+http://www.admin.navy.mi.th/document/general/provincecode.pdf
