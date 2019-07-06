@@ -1,6 +1,6 @@
 # Thailand-Address
 
-Thailand's province, district, subdistrict, zip-code and geography records as a sql-datasource file and javascript files.
+Thailand's province, district, subdistrict, zip-code and geography records as a sql-datasource file and json files.
 
 ข้อมูลจังหวัด, อำเภอ, ตำบล, รหัสไปรษณีย์และภูมิภาค ของประเทศไทยในรูปแบบของไฟล์ sql และไฟล์ json
 
